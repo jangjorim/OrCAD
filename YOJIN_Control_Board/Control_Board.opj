@@ -1,0 +1,49 @@
+(ExpressProject "Control_Board"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\control_board.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\control_board.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (LastUsedLibraryBrowseDirectory
+     "C:\OrCAD\OrCAD_16.6_Lite\tools\capture\library")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "Library")
+      (Select "Design Resources" "Library" ".\control_board.olb"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 435"))
+      (Tab 0))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 156 1537 156 630")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "892 399")
+        (Zoom "248"))
+      (Path "D:\CodeData\OrCad\YOJIN_Control_Board\Control_Board.OLB")
+      (Package "ATMEGA8"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1726 52 526")
+        (Scroll "-339 0")
+        (Zoom "81")
+        (Occurrence "/"))
+      (Path "D:\CODEDATA\ORCAD\YOJIN_CONTROL_BOARD\CONTROL_BOARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))
