@@ -1,0 +1,12 @@
+\t (00:00:00) pad_designer 16.6-2015 S051 (v16-6-112DY) Windows 32
+\t (00:00:00)     Journal start - Wed Aug 04 15:23:11 2021
+\t (00:00:00)         Host=DESKTOP-MK59B09 User=smin8 Pid=14516 CPUs=16
+\t (00:00:00) CmdLine= C:\OrCAD\OrCAD_16.6_Lite\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:00:10) setwindow form.padedit
+\i (00:00:10) pse_open 
+\i (00:00:12) fillin "smd2_6rec1_6.pad"
+\i (00:00:51) FORM padedit layers  
+\i (00:00:54) FORM padedit parameters  
+\i (00:01:08) pse_exit
+\t (00:01:08)     Journal end - Wed Aug 04 15:24:19 2021
